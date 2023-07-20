@@ -67,3 +67,4 @@ C:\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWeb.Views.pdb
 C:\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWeb.dll
 C:\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWeb.pdb
 C:\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
+C:\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs

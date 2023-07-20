@@ -1870,6 +1870,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+      "TargetPath": "Views\\Sellers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
