@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\SalesWeb\\SalesWebMvc\\SalesWeb.csproj": {}
+    "C:\\repos\\SalesWebMvc\\SalesWebMvc\\SalesWeb.csproj": {}
   },
   "projects": {
-    "C:\\temp\\SalesWeb\\SalesWebMvc\\SalesWeb.csproj": {
+    "C:\\repos\\SalesWebMvc\\SalesWebMvc\\SalesWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\SalesWeb\\SalesWebMvc\\SalesWeb.csproj",
+        "projectUniqueName": "C:\\repos\\SalesWebMvc\\SalesWebMvc\\SalesWeb.csproj",
         "projectName": "SalesWeb",
-        "projectPath": "C:\\temp\\SalesWeb\\SalesWebMvc\\SalesWeb.csproj",
+        "projectPath": "C:\\repos\\SalesWebMvc\\SalesWebMvc\\SalesWeb.csproj",
         "packagesPath": "C:\\Users\\vbjesus\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\SalesWeb\\SalesWebMvc\\obj\\",
+        "outputPath": "C:\\repos\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,6 +62,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             }
           },
           "imports": [
