@@ -1905,6 +1905,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+      "TargetPath": "Views\\Sellers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Index.cshtml",
       "TargetPath": "Views\\Departments\\Index.cshtml",
       "FileKind": "mvc"
